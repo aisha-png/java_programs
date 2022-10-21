@@ -11,6 +11,4 @@ public class Swap2Variables {
         a = a.substring(b.length());
         System.out.println("After swap: " + a + " " + b);
     }
-
-
 }
