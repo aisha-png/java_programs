@@ -36,7 +36,7 @@ public class CharacterPercentage {
     }
 
     public static void main(String[] args) {
-        charPercentage("Somalia is my country 100%!");
+        charPercentage("Gaming is actually fun 100%!");
     }
 
 }
