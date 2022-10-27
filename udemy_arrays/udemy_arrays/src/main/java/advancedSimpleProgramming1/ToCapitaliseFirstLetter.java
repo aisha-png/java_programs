@@ -1,3 +1,4 @@
+package advancedSimpleProgramming1;
 
 public class ToCapitaliseFirstLetter {
     public static String capitaliseWords(String str){

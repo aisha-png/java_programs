@@ -1,3 +1,4 @@
+package advancedSimpleProgramming1;
 
 public class ToggleWords {
     public static String toggleString(String str){

@@ -1,3 +1,5 @@
+package shapeAreaAndPermiter;
+
 import java.util.Scanner;
 
 public class AreaOfShapes {
@@ -17,13 +19,14 @@ public class AreaOfShapes {
     }
 
     static void printHelp(){
-        boolean exit = false;
         String instruction = "" + System.lineSeparator() +
                 "  1) Calculate the area of a Circle?" + System.lineSeparator() +
                 "  2) Calculate the area of a Triangle?" + System.lineSeparator() +
                 "  3) Calculate the area of a Rectangle?" + System.lineSeparator() +
                 "  4) Calculate the area of a Square?" + System.lineSeparator() +
-                "  5) Nothing :| ";
+                "  5) Nothing :| " + System.lineSeparator() +
+                "----------------------------------------------" + System.lineSeparator() +
+                "----------------------------------------------";
         System.out.println(instruction);
         Scanner scanner = new Scanner(System.in);
         System.out.println("Select the number of the shape you want to calculate the area for:");

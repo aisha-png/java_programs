@@ -1,3 +1,4 @@
+package advancedSimpleProgramming1;
 
 public class RemoveCharacter {
     public static String removeCharAt(String str, int index){

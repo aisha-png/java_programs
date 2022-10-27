@@ -1,3 +1,5 @@
+package advancedSimpleProgramming1;
+
 import java.util.Arrays;
 
 public class AnagramString {

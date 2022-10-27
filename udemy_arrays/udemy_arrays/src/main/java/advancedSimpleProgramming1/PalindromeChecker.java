@@ -1,3 +1,5 @@
+package advancedSimpleProgramming1;
+
 public class PalindromeChecker {
     public static boolean isPalindrome(String str){
         StringBuilder sb = new StringBuilder(str);

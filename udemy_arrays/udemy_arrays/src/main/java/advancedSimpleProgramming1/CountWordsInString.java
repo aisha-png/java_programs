@@ -1,3 +1,4 @@
+package advancedSimpleProgramming1;
 
 public class CountWordsInString {
     public static int wordCount(String string){

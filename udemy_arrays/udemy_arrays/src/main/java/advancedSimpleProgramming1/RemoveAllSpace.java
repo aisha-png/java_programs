@@ -1,3 +1,4 @@
+package advancedSimpleProgramming1;
 
 public class RemoveAllSpace {
     public static void main(String[] args) {

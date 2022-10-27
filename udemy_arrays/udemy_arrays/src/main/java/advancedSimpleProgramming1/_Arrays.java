@@ -1,6 +1,6 @@
-import java.sql.Array;
+package advancedSimpleProgramming1;
 
-public class Main {
+public class _Arrays {
     public static void main(String[] args) {
 
         int[] intArray = new int[7];

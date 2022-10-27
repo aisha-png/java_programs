@@ -1,3 +1,5 @@
+package advancedSimpleProgramming1;
+
 public class ProveStringImmutable {
     public static void referenceCheck(Object x, Object y){
         if(x == y){
